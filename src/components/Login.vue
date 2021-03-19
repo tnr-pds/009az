@@ -8,7 +8,7 @@
       </template>
       <b-card-text>Header and footers using slots.</b-card-text>
       <b-button href="#" @click="login()" variant="primary">Login</b-button>
-      <b-button href="#" @click="logout()" variant="primary">Login</b-button>
+      <b-button href="#" @click="logout()" variant="primary">Logout</b-button>
       <template #footer>
         <em>Footer Slot</em>
       </template>
