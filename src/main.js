@@ -13,13 +13,13 @@ import 'firebase/auth'
 // Initialize Cloud Firestore through Firebase
 if (!firebase.apps.length) {
   const firebaseConfig = {
-    apiKey: "AIzaSyDPBrFP8KJxF6zAwlnREyzP0rACGVo_dkM",
-    authDomain: "login-473f8.firebaseapp.com",
-    projectId: "login-473f8",
-    storageBucket: "login-473f8.appspot.com",
-    messagingSenderId: "918190999043",
-    appId: "1:918190999043:web:65a92e5393c7ae0dfe3036",
-    measurementId: "G-CBT02SDMN7"
+    apiKey: "AIzaSyCYvOXVrBmHgHMHNYF1CQhVB4dmvWLSYyc",
+    authDomain: "aodzi-8e513.firebaseapp.com",
+    projectId: "aodzi-8e513",
+    storageBucket: "aodzi-8e513.appspot.com",
+    messagingSenderId: "517454627939",
+    appId: "1:517454627939:web:682cd3681ca9ae4f756456",
+    measurementId: "G-2PN93T3LWL"
   }
   firebase.initializeApp(firebaseConfig)
 }
